@@ -40,3 +40,9 @@ This project presents a comprehensive **Exploratory Data Analysis (EDA)** of Vri
 **Target women customers aged 30–49 in Maharashtra, Karnataka & Uttar Pradesh** by showing ads, offers, and coupons on Amazon, Flipkart & Myntra.
 
 ## 📂 File Structure
+
+
+```
+## 📸 Dashboard Preview
+
+![Vrinda store Dashboard.jpg](./dashboard-Vrinda store Dashboard.jpg)
