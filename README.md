@@ -44,4 +44,4 @@ This project presents a comprehensive **Exploratory Data Analysis (EDA)** of Vri
 
 ## 📸 Dashboard Preview
 
-![Vrinda store Dashboard.jpg](./dashboard-Vrinda store Dashboard.jpg)
+![Vrinda Store Dashboard](./Vrinda%20store%20Dashboard.JPG)
